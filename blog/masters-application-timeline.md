@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Masters Application Timeline
+author: Aadiv Shah
 permalink: /blog/masters-application-timeline.html
 ---
 
@@ -185,3 +186,6 @@ There are multiple factors that can influence your decision. Some of the importa
 - **Opportunities for on-campus jobs and positions like RA/TA/GA**.
 - **Student to teacher ratio** (some unis have huge class sizes, e.g. 700+ for popular courses).
 - After going through all of the above, if you still cannot decide, you can look into factors like location of the university, culture, weather, etc. (secondary factors).
+
+
+In conclusion, the application process is a long and arduous one. It is important to keep your calm and not get bogged down by the process. It is also important to remember that the process is not the end of the world. Good luck with your applications!
