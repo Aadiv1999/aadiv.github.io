@@ -18,4 +18,4 @@ permalink: /projects.html
 
 ### AgriAir
 
-[Home](./pages/index.html)
+[Home](./index.html)

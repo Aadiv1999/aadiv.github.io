@@ -6,4 +6,4 @@ permalink: /achievements.html
 
 # Achievements
 
-[Home](./pages/index.html)
+[Home](./index.html)

@@ -22,5 +22,3 @@ IPSUMM
 Cyvl.ai
 ### Robotics Intern
 Fleet Robotics
-
-_Find a list of my projects [here](./projects.html)._
