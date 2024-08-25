@@ -22,13 +22,13 @@ platforms:
 # Navigation links
 navigation:
   - name: Home
-    link: /pages/index/
+    link: ./pages/index/
   - name: Projects
-    link: /pages/projects/
+    link: ./pages/projects/
   - name: Achievements
-    link: /pages/achievements/
+    link: ./pages/achievements/
   - name: Blog
-    link: /pages/blog/
+    link: ./pages/blog/
 
 # Permalinks
 permalinks:
