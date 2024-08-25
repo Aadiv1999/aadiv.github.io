@@ -7,7 +7,7 @@ permalink: /projects.html
 ## Projects
 
 ### Robot Dynamics
-<img src="/assets/img/dynamics.jpg" style="height: 200; width: auto;" alt="Robot Dynamics">  
+<img src="assets/img/dynamics.jpg" style="height: 200; width: auto;" alt="Robot Dynamics">  
 
 
 Course Projects for RBE 501  
