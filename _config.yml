@@ -4,6 +4,7 @@ email:
 description:
 favicon: true
 color-scheme: light
+hide_project_page: true
 
 plugins:
   - jekyll-sitemap
@@ -19,10 +20,11 @@ platforms:
     link: https://www.linkedin.com/in/aadiv-shah-6024/
 
 navigation:
-  - name: Readme
+  - name: Home
     link: ./index.html
-    sublist:
-      - name: Image
-        link: ./index.html#small-image
-  - name: Another Page
+  - name: Projects
     link: ./projects.html
+  - name: Achievements
+    link: ./achievements.html
+  - name: Blog
+    link: ./blog.html
