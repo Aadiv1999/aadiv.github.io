@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-permalink: /pages/blog.html
+permalink: /blog.html
 ---
 
 # Blog

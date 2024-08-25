@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-permalink: /pages/index.html
+permalink: /index.html
 ---
 
 # About

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Achievements
-permalink: /pages/achievements.html
+permalink: /achievements.html
 ---
 
 # Achievements
