@@ -5,6 +5,9 @@ description:
 favicon: true
 color-scheme: light
 hide_project_page: true
+author:
+  name: Aadiv Shah
+  location: Mumbai, India
 
 plugins:
   - jekyll-sitemap
