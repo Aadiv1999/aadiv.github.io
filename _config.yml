@@ -21,7 +21,7 @@ platforms:
 
 navigation:
   - name: Home
-    link: ./index.html
+    link: ./pages/index.html
   - name: Projects
     link: ./pages/projects.html
   - name: Achievements

@@ -1,7 +1,9 @@
 ---
 layout: default
+title: Blog
+permalink: /pages/blog.html
 ---
 
 # Blog
 
-[Home](./)
+[Home](./pages/index.html)
