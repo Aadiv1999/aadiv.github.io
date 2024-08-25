@@ -19,12 +19,17 @@ platforms:
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/aadiv-shah-6024/
 
+# Navigation links
 navigation:
   - name: Home
-    link: ./index.html
+    link: /
   - name: Projects
-    link: ./projects.html
+    link: /projects/
   - name: Achievements
-    link: ./achievements.html
+    link: /achievements/
   - name: Blog
-    link: ./blog.html
+    link: /blog/
+
+# Permalinks
+permalinks:
+  pretty: true  # Or specify a custom permalink format if needed
