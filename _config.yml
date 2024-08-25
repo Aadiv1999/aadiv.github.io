@@ -21,10 +21,10 @@ platforms:
 
 navigation:
   - name: Home
-    link: ./pages/index.html
+    link: ./index.html
   - name: Projects
-    link: ./pages/projects.html
+    link: ./projects.html
   - name: Achievements
-    link: ./pages/achievements.html
+    link: ./achievements.html
   - name: Blog
-    link: ./pages/blog.html
+    link: ./blog.html
