@@ -37,7 +37,7 @@ hvr -> hover
   // buttons
   --L-a-text-hover-change: 0.8;
   --clr-a-text: hsl(215, 50%, var(--L-a-text));
-  --clr-a-text-hvr: hsl(200, 100%, calc(var(--L-a-text) * var(--L-a-text-hover-change)));
+  --clr-a-text-hvr: hsl(215, 50%, calc(var(--L-a-text) * var(--L-a-text-hover-change)));
   --clr-buttons-main-bg: hsl(0, 0%, var(--L-buttons-main-bg));
   --clr-buttons-main-border: hsl(0, 0%, var(--L-buttons-main-border));
   --clr-buttons-main-text: hsl(0, 0%, var(--L-buttons-main-text));
@@ -69,16 +69,16 @@ hvr -> hover
   color-scheme: light;
   // buttons
   --L-a-text: 26%;
-  --L-buttons-main-bg: 96%;
-  --L-buttons-main-border: 88%;
-  --L-buttons-main-text: 40%;
-  --L-buttons-main-text-hover: 38%;
+  --L-buttons-main-bg: 26%;
+  --L-buttons-main-border: 26%;
+  --L-buttons-main-text: 26%;
+  --L-buttons-main-text-hover: 26%;
   // headers + text
-  --L-h1-and-bold: 13%;
-  --L-h2: 22%;
-  --L-h-3-6: 29%;
-  --L-text-bold: 36%;
-  --L-text: 45%;
+  --L-h1-and-bold: 26%;
+  --L-h2: 26%;
+  --L-h-3-6: 26%;
+  --L-text-bold: 26%;
+  --L-text: 26%;
   // code blocks
   --L-code-text: 20%;
   --L-code-bg: 97%;
