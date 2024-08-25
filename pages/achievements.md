@@ -9,7 +9,7 @@ permalink: /achievements.html
 ## FIRST Global Challenge 2017
 Won the Gold and Bronze while representing India amongst 163 nations, at the Olympics of Robotics at Washington, D.C.
 
-<img src="../assets/img/fgc.JPG" style="height: 200; width: auto;" alt="FIRST Global Challenge 2017">  
+<img src="{{ site.baseurl }}/assets/img/fgc.JPG" style="height: 200; width: auto;" alt="FIRST Global Challenge 2017">  
 
 
 ***
